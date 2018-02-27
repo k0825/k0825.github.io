@@ -1,0 +1,17 @@
+.header {
+    height: 80px;
+    background-color: #9fcdff;
+    color: #fff;
+}
+
+.logo {
+    float: left;
+    padding: 10px;
+    border-right: 2px solid #818182;
+}
+
+.header ul {
+    list-style: none;
+    float: right;
+    padding: 20px 40px;
+}
